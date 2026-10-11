@@ -72,4 +72,4 @@ Issues and suggestions are welcome. Include your GPU, CPU, game version, driver 
 
 ## License
 
-No license has been selected yet. Unless a license is added, the code remains protected by its applicable copyright; public visibility alone does not grant permission to reuse, modify, or redistribute it.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
