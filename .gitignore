@@ -1,0 +1,11 @@
+# Local backups and per-machine installation state
+*.eds-original.bak
+*.melly-stock-backup
+.eds-install-state.json
+
+# Temporary and editor files
+*.tmp
+*.log
+*.old
+.DS_Store
+Thumbs.db
